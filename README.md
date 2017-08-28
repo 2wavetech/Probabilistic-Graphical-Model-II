@@ -1,4 +1,4 @@
-# Probabilistic-Graphical-Model-II: Inference
+# Probabilistic Graphical Model II: Inference
 ## Belief Propagation algorithm
 We will explore **clique tree** message passing in this assignment, and by its end, will
 have created an **inference engine** powerful enough to handle **probabilistic queries** and find **MAP**
