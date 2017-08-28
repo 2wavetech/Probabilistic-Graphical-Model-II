@@ -6,6 +6,6 @@ assignments over the genetic inheritance networks from the second programming as
 the OCR networks from the third programming assignment, respectively. Here are the steps:
 1. Clique Tree Construction
 2. Message Passing in a Clique Tree
-  1. Message Ordering
-  2. Sum-Product Message Passing
-  3. Max-Sum Message Passing
+    1. Message Ordering
+    2. Sum-Product Message Passing
+    3. Max-Sum Message Passing
