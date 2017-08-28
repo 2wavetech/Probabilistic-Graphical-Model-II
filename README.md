@@ -1,7 +1,7 @@
 # Probabilistic-Graphical-Model-II: Inference
-## belief propagation algorithm
+## Belief Propagation algorithm
 We will explore **clique tree** message passing in this assignment, and by its end, will
-have created an **inference engine** powerful enough to handle probabilistic queries and find **MAP**
+have created an **inference engine** powerful enough to handle **probabilistic queries** and find **MAP**
 assignments over the genetic inheritance networks from the second programming assignment and
 the OCR networks from the third programming assignment, respectively. Here are the steps:
 1. Clique Tree Construction
